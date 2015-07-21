@@ -3,37 +3,37 @@ Material de Estudo
 
 ## Principais Comandos utilizados
 
-# git init
+### git init
 Utilizado para inicializar um novo repositorio
 
-# git add
+### git add
 Utiulizado para adicionar os arquivos que estão untrached
 
-# git commit -m 
+### git commit -m 
 confirma as alterações feitas no add
 
-# git push origin master
+### git push origin master
 envia os arquivos para o repositório no github
 
-# git clone
+### git clone
 Clona um repositório
 
-# git pull origin master
+### git pull origin master
 Pega alterações do repositório remoto para o local
 
-# git checkout -b
+### git checkout -b
 Cria branches
 
-# git branch
+### git branch
 Visualiza os branches
 
-# git branch -D nome-do-branch
+### git branch -D nome-do-branch
 Remove o branch
 
-# git log
+### git log
 Verifica os logs dos ultimos commits
 
-# git status
+### git status
 Verifica o status
 
 
